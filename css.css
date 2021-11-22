@@ -9,3 +9,5 @@ header {background-color: pink;}
 body {background-color: pink;}
 
 h2 {text-align: center; color: white;border:3px solid purple; background-color: violet; border-radius:10px;font-family: 'Courgette', cursive;}
+
+.row {width: 50rem;margin-left: auto;margin-right: auto;}
