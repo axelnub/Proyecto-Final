@@ -1,13 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spartan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cantarell&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
 
+h1 {color: black; text-align: center;font-family: 'Philosopher', sans-serif;font-size: 4rem;background-color: white;}
 
-h1 {color: white; text-align: center;font-family: 'Lobster', cursive;font-size: 4rem;}
+header {background-color: white;}
 
-header {background-color: pink;}
+body {background-color: white;}
 
-body {background-color: pink;}
-
-h2 {text-align: center; color: white;border:3px solid purple; background-color: violet; border-radius:10px;font-family: 'Courgette', cursive;}
+h2 {text-align: center; color: white;border:5px solid #D7BDE2; background-color: black; border-radius:10px;font-family: 'Cantarell', sans-serif;}
 
 .row {width: 50rem;margin-left: auto;margin-right: auto;}
+
+section {background-image: url("img/fondo2.png")}
+
+.card-text {text-align: center;}
+ footer img {display: block;margin: auto;}
+
+footer img:hover {width: 20%;}
