@@ -11,7 +11,7 @@ header {background-color: white;}
 
 body {background-color: white;}
 
-h2 {text-align: center; color: white;border:5px solid #D7BDE2; background-color: black; border-radius:10px;font-family: 'Spartan', sans-serif;}
+h3 {text-align: center; color: white;border:3px solid #D7BDE2; background-color: black; border-radius:10px;font-family: 'Spartan', sans-serif;}
 
 .row {width: 50rem;margin-left: auto;margin-right: auto;}
 
@@ -20,6 +20,8 @@ section {background-image: url("img/fondo2.png")}
 .card-text {text-align: center;}
  footer img {display: block;margin: auto;}
 
-footer img:hover {width: 25%;}
+footer img:hover {width: 17%;}
 
 .card {margin: auto;}
+
+h5 {text-align: center;}
